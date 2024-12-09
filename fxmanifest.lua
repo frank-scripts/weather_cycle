@@ -1,0 +1,10 @@
+fx_version 'cerulean'
+game 'gta5'
+this_is_a_map 'yes'
+author 'Frank Scripts'
+description 'A weather cycling along with a custom pausemenu script for FiveM'
+version '1.0.0'
+
+server_script 'weather_cycle.lua'
+client_script 'client.lua'
+client_script 'pausemenu.lua'
